@@ -5,4 +5,4 @@
 
 Ссылка для приложения: откройте `schedule.json`, нажмите **Raw** и скопируйте адрес из строки браузера.
 
-Подробная инструкция и описание всех полей: [guide](https://github.com/vadk42/raspi-android/blob/main/docs/schedule-guide.md).
+Подробная инструкция и описание всех полей: [guide](https://github.com/vadk42/raspi-android/blob/main/schedule-guide.md).
