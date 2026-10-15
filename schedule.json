@@ -1,0 +1,20 @@
+{
+  "week1Start": "2026-09-01",
+  "semesterStart": "2026-09-01",
+  "sessionStart": "2026-12-28",
+  "days": [
+    {
+      "day": "Понедельник",
+      "lessons": [
+        { "title": "Алгоритмы", "start": "08:45", "end": "10:20", "teacher": "Иванов И.И.", "room": "П-13", "type": "lecture" },
+        { "title": "Линал", "start": "10:30", "end": "12:05", "teacher": "Петров П.П.", "room": "615", "type": "seminar", "week": "odd" },
+        { "title": "Матан", "start": "12:50", "end": "14:25", "teacher": "Сидоров С.С.", "room": "П-11", "type": "lecture", "badge": "Контрольная" }
+      ]
+    },
+    { "day": "Вторник", "lessons": [] },
+    { "day": "Среда", "lessons": [] },
+    { "day": "Четверг", "lessons": [] },
+    { "day": "Пятница", "lessons": [] },
+    { "day": "Суббота", "lessons": [] }
+  ]
+}
